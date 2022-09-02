@@ -11,5 +11,10 @@ int Prompt(string message)
 string[] days = { "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье" };
 
 int value = Prompt("Введите день недели >");
+if (value < 0 || value > 7)
+{
+   System.Console.WriteLine("Нет такого дня недели.");
+}
 int daysValue = value - 1;
+
 System.Console.WriteLine($"{value}->{days[daysValue]}");
