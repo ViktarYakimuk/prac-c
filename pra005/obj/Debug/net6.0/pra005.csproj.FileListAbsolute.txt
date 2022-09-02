@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\bin\Debug\net6.0\pra005.exe
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\bin\Debug\net6.0\pra005.deps.json
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\bin\Debug\net6.0\pra005.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\bin\Debug\net6.0\pra005.dll
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\bin\Debug\net6.0\pra005.pdb
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.dll
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\refint\pra005.dll
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.pdb
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\pra005.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\prog\Seminar\pra005\obj\Debug\net6.0\ref\pra005.dll
